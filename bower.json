@@ -1,0 +1,15 @@
+{
+  "name": "frodev",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Wahyu Kristianto <w.kristories@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "lesshat": "~3.0.2"
+  }
+}
